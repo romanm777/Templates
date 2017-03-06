@@ -7,10 +7,10 @@
 
 int main()
 {
-	/** */
+	/** Simple template test */
 	templ_test::simple_template_test( );
 
-	/** */
+	/** Partial specialization test */
 	templ_test::partial_spec_test( );
 
 	/** */
