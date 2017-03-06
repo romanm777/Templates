@@ -3,6 +3,9 @@ ipch
 *.db
 *.filters
 *.vcxproj
+*.user
+*.VC
 .suo
 .vs
 x64
+Debug
